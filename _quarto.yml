@@ -2,12 +2,16 @@ project:
   type: book
 
 book:
-  title: "Environmental Data Science at RWU"
+  title: "Environmental Data Science"
+  subtitle: "An online book for ENVS 200 at Roger Williams University"
   author: "Joel Singley, Ph.D."
   date: "11/21/2025"
   chapters:
     - index.qmd
     - intro.qmd
+    - part: "Part 1. Title Here"
+    - part: "Part 2. Title Here"
+    - part: "Part 3. Title Here"
     - summary.qmd
     - references.qmd
 
